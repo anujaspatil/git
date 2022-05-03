@@ -1,1 +1,3 @@
 Hello
+New line in file 2 
+newest change
